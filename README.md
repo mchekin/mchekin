@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m passionate about Clean Code, Layered Architecture and Domain Driven Design.
+- 💪 I’m passionate about Clean Code, Software Architecture and Domain Driven Design.
 - 👯 I’m looking to collaborate on anything interesting in PHP, C#, Python and NodeJS.
 - 🤔 I’m looking for help with https://github.com/mchekin/rpg
 - 📫 How to reach me: mchekin@gmail.com
